@@ -1,5 +1,5 @@
 # .aoi example project
-This is an example of [dotaoi](/apenasigordev/dotaoi) project.
+This is an example of [dotaoi](https://github.com/apenasigordev/dotaoi) project.
 
 # Install dependencies
 
