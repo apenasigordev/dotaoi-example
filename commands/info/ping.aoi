@@ -1,0 +1,2 @@
+NAME ping; ALIASES ["pong"];
+Pong! $pingMS

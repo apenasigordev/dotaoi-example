@@ -1,0 +1,8 @@
+# Replit Files
+.replit
+*.nix
+.config
+.upm
+
+# NPM Files
+node_modules
